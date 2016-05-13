@@ -1,5 +1,5 @@
 <?php
 class Nguyen{
-public $t=0;
+public $t=1;
 }
 ?>
