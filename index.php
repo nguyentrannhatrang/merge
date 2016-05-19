@@ -7,5 +7,6 @@ public $gn =0;
 //nguyen
 //feature 4
 //hotfix 1.0.0.5
+//feature 4 release 1.0.0.7
 }
 ?>
